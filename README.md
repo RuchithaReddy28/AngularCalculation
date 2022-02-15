@@ -213,9 +213,10 @@ export class AppModule { }
 
 
 ## OUTPUT:
-
-### Home Page:
-
+###WITHOUT OUTPUT:
+![output](https://github.com/RuchithaReddy28/AngularCalculation/blob/main/N1.JPG?raw=true)
+### WITH OUTPUT:
+![output](https://github.com/RuchithaReddy28/AngularCalculation/blob/main/N2.JPG?raw=true)
 
 ## Result:
 To design a dynamic website to perform mathematical calculations using Angular Framwork is successfully created.
