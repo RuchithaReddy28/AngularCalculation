@@ -181,7 +181,7 @@ app.component.html:
 <Cone-Vol>
 
 </Cone-Vol>
-<div class="footer">Developed By: Jegathish siva</div>
+<div class="footer">Developed By: A.Ruchitha Reddy</div>
 
   </div>
 
